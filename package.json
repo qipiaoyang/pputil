@@ -1,0 +1,17 @@
+{
+  "name": "pputil",
+  "version": "0.0.22",
+  "description": "飘飘专属工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "工具库"
+  ],
+  "author": "pandaQi",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
